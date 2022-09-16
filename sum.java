@@ -3,6 +3,6 @@ class sid{
         int a = 10;
         int b = 20;
         int sum = a+b;
-        system.out.println(sum) 
+        system.out.println(sum+'yes') 
     }
 }
